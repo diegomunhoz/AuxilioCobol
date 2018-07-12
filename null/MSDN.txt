@@ -1,0 +1,38 @@
+cLogin: luis.vilella@fatec.sp.gov.br
+Login: 10901663
+
+Windows XP Professional (Single User)
+Número de Série: TJ3VW-RGM2R-92HYG-84BRJ-9HXYD
+
+Windows 7 Professional (x64) - DVD (English)
+Número de Série: MWKC3-CJGXG-JXQ46-RWXDX-T6JWH - NOT FELIPE
+
+Windows XP Professional with SP2 (Single User) ISO Image (Portuguese-Brazil)
+Número de Série: KV9DP-KDK46-9P3M9-79RVD-86GDW
+
+Windows 7 Professional (x86) - DVD (Portuguese-Brazil)
+Número de Série: 386H8-MJH9G-964YX-M48C4-4JF3G - problema duplicado
+
+Windows 7 Professional (x86) - DVD (English)
+Número de Série: 38HX9-C46D4-D3C39-HYT6K-PC4JC - usando pc da Ana
+
+Windows 7 Professional (x86) - DVD (English) - Do Sapia
+Número de Série: FJRQ3-QPCRW-FT9TG-KWVK2-R2KJ9
+
+Windows 7 Professional (x64) - DVD (Portuguese-Brazil)
+Número de Série: GTF33-XWG4C-2B8T9-3C32B-7BH37 - my dell
+
+Windows 7 Professional (x64) - DVD (Portuguese-Brazil)
+Número de Série: YJXPH-VFBYX-8FQG2-PCQ46-9MM42 - Usando Not Lui
+
+Windows 7 Professional (x64) - DVD (English) 
+Número de Série: 6RP39-YBV9D-DTTBB-9YVM2-H7PXC 
+
+Windows Server 2003 Standard Edition
+Número de Série: DJRKX-T666R-Q3Y4M-K234T-X89F3
+
+Windows Server 2003 Standard Edition
+Número de Série: FYQTR-3K9CG-XWFFG-PPDXW-7P32D - usando em VM
+
+Windows Server 2008 Enterprise and Standard - DVD
+Número de Série: H6M4T-H6D9X-CJCC7-KX7R4-RKP84 - usando em VM
